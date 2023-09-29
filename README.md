@@ -1,2 +1,2 @@
 # Naitestede
-Naitestede is a project in which I have installed the DNN Platform with NVQuickSite again for a tutorial.
+Naitestede is a C# and .NET console app about pets.
